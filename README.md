@@ -83,9 +83,9 @@
 - `Russian_Crude_Navy_Amber_theme.json` : custom theme
 - `images/` : dashboard screenshots
 
-## Author
-**SAAD SHAIKH**
-www.linkedin.com/in/saad-s-062baa286 | saad.shaikh1551@gmail.com
-
+# Author
+Saad Shaikh | saad.shaikh1551@gmail.com
+linked in : https://www.linkedin.com/in/saad-s-062baa286
 If you found this useful, please give the repo a star.
-## README IS Generated with CLAUDE HELP
+
+README IS Generated with CLAUDE HELP
